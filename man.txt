@@ -1,0 +1,22 @@
+git clone git@github.com:KKulishov/git.git
+
+
+иницилиазиация новго репозитория
+git init
+
+$ git add *.c
+$ git add LICENSE
+$ git commit -m 'первоначальная версия проекта'
+
+$ git help <команда>
+$ git <команда> --help
+$ man git-<команда
+
+проверка настроек
+git config --list
+git config user.name
+
+git config --global core.editor vim
+
+краткий отчет
+git status -s или git status --short ,
