@@ -1,2 +1,10 @@
 Отмена изменений
 git commit –amend
+
+Отмена индексирования
+git reset HEAD benchmarks.rb
+
+
+Отмена внесенных в файл изменений
+git checkout -- [файл]
+git checkout -- benchmarks.rb
