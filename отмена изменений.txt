@@ -1,3 +1,2 @@
 Отмена изменений
 git commit –amend
-test
