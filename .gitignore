@@ -1,2 +1,10 @@
 *.[oa]
 *~
+*.img
+*.jpeg
+*.jpg
+*.tif
+*.tiff
+*.ico
+*.gmp
+*.psd
