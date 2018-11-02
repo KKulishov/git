@@ -1,1 +1,2 @@
 Отмена изменений
+git commit –amend
