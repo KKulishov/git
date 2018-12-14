@@ -1,0 +1,3 @@
+git config --global alias.ci commit
+git commit достаточно будет ввести git ci .
+65
